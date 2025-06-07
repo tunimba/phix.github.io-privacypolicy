@@ -1,5 +1,5 @@
 # Phix – Privacy Policy
-Last updated: [DD Month YYYY]
+Last updated: [08.06.2025]
 
 # 1. Introduction
 Phix (“Phix,” “we,” “our”) is a mobile application that restores, colourises, and enhances photographs with AI-powered image processing. This Privacy Policy explains what personal data we collect, why we collect it, how we use it, how we keep it safe, and which rights you have. By using Phix, you accept the practices described here.
